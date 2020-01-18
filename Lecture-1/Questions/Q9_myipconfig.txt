@@ -1,0 +1,6 @@
+In Command Line ipconfig command is used to get network information 
+to which device is connected 
+ example: 
+Que WAP to implement myipconfig command using node os modules ? 
+input: node myipconfig.js 
+output : output

@@ -1,0 +1,5 @@
+In Command line touch command is used to  delete a file
+	example: rm file
+Que WAP to implement myrm command using nodes fs module ? 
+input: node myrm.js abc
+output : file  "abc" should be deleted 

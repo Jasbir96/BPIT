@@ -1,0 +1,5 @@
+In Command line touch command is used to  create new file
+	example: touch file.txt
+Que WAP to implement mytouch command using nodes fs module ? 
+input: node mytouch.js abc
+output : a new file named "abc.js" should be created 

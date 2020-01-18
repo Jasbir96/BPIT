@@ -1,0 +1,5 @@
+In Command line rmdir command is used to  delete directory 
+	example:rmdir folder
+Que WAP to implement myrmdir command using nodes fs module ? 
+input: node myrmdir.js abc
+output :  folder "abc" is deleted 

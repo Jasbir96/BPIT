@@ -1,0 +1,5 @@
+In Command Line ls command is used to list all the file and 
+folder of a directory
+ 
+Que WAP to implement myls command using node fs modules ? 
+	Input: node myls.js

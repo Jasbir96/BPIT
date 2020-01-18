@@ -1,0 +1,3 @@
+Que  Title Case a Sentence.
+Input:I'm a little tea pot"
+Output: I'm A Little Tea Pot.
