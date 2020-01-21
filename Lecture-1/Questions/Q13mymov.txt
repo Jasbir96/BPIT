@@ -1,0 +1,5 @@
+In Command Line mov command is used to move content of one file to another
+ example: mov abc.txt file.txt
+Que WAP to implement mymov command using node os modules ? 
+input: node mymov.js a.txt b.txt
+output : all content of a.txt is moved to b.txt

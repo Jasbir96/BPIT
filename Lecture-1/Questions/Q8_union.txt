@@ -1,0 +1,4 @@
+Q Write a JavaScript program to compute the union of two arrays.
+Input arr1= [1, 2, 3]
+arr2= [100, 2, 1,10]
+Output: [1,2,3,100,10]
