@@ -1,0 +1,4 @@
+Q4 Write includer function that accepts isOdd  function and filter even values from actual array without mutating actual array
+arr[5,8,14,17,23,6,8]
+narr[5,17,23]
+ 
