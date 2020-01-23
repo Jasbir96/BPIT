@@ -8,5 +8,6 @@ function fnasPara() {
   console.log("I am a function passed as parameter");
   return "Some value from fn";
 }
+
 const myVar = sayHi(fnasPara);
 console.log(myVar);
