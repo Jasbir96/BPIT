@@ -1,15 +1,14 @@
 // lib
 // require
 const service = require("./Lib/services");
-console.log("Request has been send");
-
 // function server
-service.downloadFile("g-drive/img.jpeg", downloaded);
-// service.compressFile(imgPath);
-// service.uploadFile(cImgpath);
 function downloaded(imgPath) {
   console.log("Img Downloaded to " + imgPath);
+  service.compressFile(imgPath, compressed);
 }
-service.co
+function compressed(cImg) {
+  console.log("Compressed Img path" + cImg);
 
-// console.log("Waiting for response");
+}
+service.downloadFile("g-drive/img.jpeg", downloaded);
+
